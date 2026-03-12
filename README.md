@@ -4,5 +4,6 @@ https://public.tableau.com/app/profile/venkatadri.r2119/viz/HRAnalyticsDashboard
 by Venkatadri R**
 https://public.tableau.com/app/profile/venkatadri.r2119/viz/HRAnalyticsDashboard_17732538345070/HrAnalysticsDashboard?publish=yes&showOnboarding=true
 https://public.tableau.com/app/profile/ragelagunta.venkatadri/vizzes
-**Mx EXCEL HR ANALYSTICS BADHBOARD**
+
+**Mx EXCEL**
 HR ANALYSTICS BASHBOARD also i have done in ms excel ,if you want to see me project i shared in file can you check
